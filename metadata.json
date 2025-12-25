@@ -1,0 +1,7 @@
+{
+  "name": "PayFast UPI",
+  "description": "A high-performance UPI-style payment application with QR scanning, instant transfers, and a sleek dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
